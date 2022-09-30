@@ -1,0 +1,5 @@
+div{ font-size:26px; } 
+
+div > p{color:blue }
+
+body{text-align: center;}
